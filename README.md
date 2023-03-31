@@ -1,8 +1,8 @@
 # vitepos-language
 It is the repository for vitepos language contribution.
 
-## You contibute your own language , 
-### just upload your po, 
+## Thank you for your contibution, 
+### just push your .po file with proper name, 
 file name will be : vitepos-[language-code].po
 #### you can use poedit as editor, given some example below:
 
